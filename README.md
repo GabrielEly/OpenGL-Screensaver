@@ -4,6 +4,8 @@ Screensaver feito em OpenGL para a disciplina de Computação Gráfica de 2021.
 
 Autores: Gabriel Ely Konrath e Guilherme Closs Fraga.
 
+Vídeo: https://asavbrm.sharepoint.com/:v:/s/2021_2851436_1_8-GabrielKonratheGuilhermeFraga/EcevOSg50P1Iv7-N_IPHIRgBJC59YmMi4_4sjE7XpQecYw?e=PDoczt
+
 ### Instruções para compilar o jogo:
 - Fazer o download ou clone do repositório;
 - Abrir a solução `Sabertooth.sln` (pode ser encontrada dentro da pasta baixada ou clonada `OpenGL-Screensaver-main/`) no Visual Studio 2019;
